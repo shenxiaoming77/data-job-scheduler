@@ -1,0 +1,9 @@
+com\fcy\job\admin\controller\AbstractSpringMvcTest.class
+com\fcy\job\admin\dao\XxlJobRegistryDaoTest.class
+com\fcy\job\admin\dao\XxlJobLogGlueDaoTest.class
+com\fcy\job\admin\controller\JobInfoControllerTest.class
+com\fcy\job\adminbiz\AdminBizTest.class
+com\fcy\job\admin\dao\XxlJobGroupDaoTest.class
+com\fcy\job\admin\dao\XxlJobInfoDaoTest.class
+com\fcy\job\admin\dao\XxlJobLogDaoTest.class
+com\fcy\job\admin\util\I18nUtilTest.class
